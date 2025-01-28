@@ -1,0 +1,105 @@
+header{
+  font-size: 20px;
+}
+
+img {
+    position: relative;
+    top: 150px;
+    left: 200px;
+    width: 400px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+}
+
+p {
+  position: relative;
+  top: 220px;
+  left: 250px;
+  font-weight: bold;
+  max-width: 1200px;
+  font-size: large;
+}
+
+h1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  position: relative;
+  left: 150px;
+}
+
+h2 {
+  position: relative;
+  top: 220px;
+  left: 250px;
+  font-size: 30px;
+}
+
+.hello-world{
+  font-size: 50px;
+}
+
+.light-blue-text{
+  color: #22a9e1;
+}
+
+body{
+  background: #081b29;
+  color: #E5E7EB;;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.socials-button {
+  position: relative;
+  top: 350px;
+  display: inline-block; 
+  padding: 10px 20px; 
+  background-color: #E4405F; 
+  color: white; 
+  font-size: 30px; 
+  font-weight: bold; 
+  text-decoration: none; 
+  border-radius: 50px; 
+  transition: background-color 0.3s ease; 
+  margin: 10px 0
+}
+
+.instagram-button{
+  background-color: #E4405F;
+  left: 250px;
+}
+
+.instagram-button:hover {
+  background-color: #c13548; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.linkedin-button{
+  background-color: #0077B5;
+  left: 270px;
+}
+
+.linkedin-button:hover {
+  background-color: #005582; /* Darker LinkedIn color on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.twitter-button{
+  background-color: hwb(189 0% 30%);
+  left: 290px;
+}
+
+.twitter-button:hover {
+  background-color: #006882; /* Darker LinkedIn color on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.facebook-button{
+  background-color: #1877F2;
+  left: 310px;
+}
+
+.facebook-button:hover{
+  background-color: #145DBF;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
