@@ -103,7 +103,7 @@ body{
 }
 
 .linkedin-button:hover {
-  background-color: #005582; /* Darker LinkedIn color on hover */
+  background-color: #005582; 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
@@ -113,7 +113,7 @@ body{
 }
 
 .twitter-button:hover {
-  background-color: #006882; /* Darker LinkedIn color on hover */
+  background-color: #006882;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
